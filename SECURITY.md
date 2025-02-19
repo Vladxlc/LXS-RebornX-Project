@@ -9,10 +9,10 @@ currently being supported with security updates.
 
 | Version         | Supported          |
 | ----------------| ------------------ |
-| RebornX_1.0.537 | :Android 9,10,11: |
-| 5.0.x           | :notreleased:      |
-| 4.0.x           | :notreleased:      |
-| < 4.0           | :notreleased:      |
+| RebornX_1.0.537 | :Android 9,10,11:  |
+| 1.0.325         | :notreleased:      |
+| 1.0.15          | :notreleased:      |
+| < 1.0.0         | :notreleased:      |
 
 ## Reporting a Vulnerability
 
