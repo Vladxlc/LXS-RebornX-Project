@@ -10,11 +10,11 @@ currently being supported with security updates.
 | Version         | Supported          |
 | ----------------| ------------------ |
 | RebornX_1.0.537 | :Android 9,10,11:  |
-| 1.0.325         | :notreleased:      |
-| 1.0.15          | :notreleased:      |
-| < 1.0.0         | :notreleased:      |
+| 1.0.325         | :beta:      |
+| 1.0.15          | :beta:      |
+| < 1.0.0         | :beta:      |
 
 ## Reporting a Vulnerability
 
-Gmail : Vladxlc04@gmail.com
-Update : https://github.com/Vladxlc/LXS-RebornX-Project/releases/tag/lxsrebornx
+Github: https://github.com/Vladxlc
+Update: https://github.com/Vladxlc/LXS-RebornX-Project/releases/tag/lxsrebornx
